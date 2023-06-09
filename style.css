@@ -11,7 +11,7 @@ body {
 
 h1 {
   font-weight: bold;
-  
+  color: white;
 }
 
 p {
@@ -40,15 +40,16 @@ input {
 
 input[type=submit] {
   font-size: 16px;
-  border-radius: 3px;
-  background-color: #E4F1FE;
+  border-radius: 5px;
+  color: white;
+  background-color: black;
   border: 1px solid grey;
   box-shadow: 2px 2px #999;
   cursor: pointer;
 }
 
 input[type=submit]:hover {
-  background-color: #FFFEC4;
+  background-color: rgb(79, 75, 75);
 }
 
 code {
@@ -56,4 +57,20 @@ code {
   font-size: 1.2em;
   background-color: #FFFEC4;
   padding: 2px;
+}
+.f-bg{
+  background-image: url("https://sc04.alicdn.com/kf/Hdd176a6bf8b14c73b1aa1afc69af90548.png");
+  background-size:cover;
+  height: 100%;
+  color: black;
+  padding: 20px;
+  padding-bottom: 70px;
+  border-radius: 10px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.f-white{
+  color: white;
+}
+.f-form{
+  background-color:darkgray;
 }
