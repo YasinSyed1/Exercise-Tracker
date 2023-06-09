@@ -1,4 +1,4 @@
-# Exercise Tracker
+# Exercise Tracker 🏋️‍♂️🏋️‍♂️🏋️‍♂️
 
 Welcome to the Exercise Tracker project! This application is designed to help you track and manage your daily exercise routines. Whether you are a fitness enthusiast or simply trying to stay active, this tool will assist you in maintaining a healthy and balanced lifestyle.
 
